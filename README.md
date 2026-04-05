@@ -6,8 +6,7 @@ copies with real schema, real data shape, and no shared state.
 ## Install
 
 ```bash
-brew tap attaradev/ditto
-brew install --cask ditto
+brew install attaradev/ditto/ditto
 ```
 
 ## More
